@@ -1,0 +1,43 @@
+#child2{
+    margin: 12px;
+}
+
+#child1{
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+
+td,th{
+    border: 3px solid black;
+    width: 100px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.g1{
+    background-color: plum;
+}
+
+.g2{
+    background-color:rgba(0, 143, 148, 0.918);
+}
+.g3{
+    background-color:rgb(226, 179, 137);
+}
+.g4{
+    background-color:rgb(74, 156, 132);
+}
+.g5{
+    background-color:rgb(230, 0, 153) ;
+}
+.g6{
+    background-color:rgb(98, 185, 98) ;
+}
+.g7{
+    background-color:purple;
+}
+.g8{
+    background-color:yellow ;
+}
